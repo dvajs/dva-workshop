@@ -7,10 +7,11 @@
     "antd": "^1.11.0",
     "babel-plugin-antd": "^0.5.1",
     "classnames": "^2.2.5",
-    "dva": "^1.0.0-beta4",
+    "dva": "^1.0.0",
     "firebase": "^3.3.1",
     "path-to-regexp": "^1.5.3",
     "react": "^15.1.0",
+    "react-addons-css-transition-group": "^15.3.1",
     "react-dom": "^15.1.0"
   },
   "devDependencies": {
